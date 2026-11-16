@@ -1,0 +1,17 @@
+{
+  "name": "VistaGram Ultimate 3.0",
+  "short_name": "VistaGram",
+  "description": "Next-generation full-stack social network for photos, Reels, Stories, Direct Messaging, LiveKit Voice/Video Calls, and Communities.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#0095F6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
